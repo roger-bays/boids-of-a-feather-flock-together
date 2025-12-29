@@ -1,3 +1,5 @@
+# Licence
+
 Copyright © 2025 Roger Bays.
 
 Permission is granted to download and run this software for personal, non-commercial entertainment use only.
